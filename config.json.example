@@ -1,0 +1,7 @@
+{
+    "token": "你的token",
+    "cookie": "你的cookie值",
+    "min_file_size_kb": 3,
+    "check_interval_minutes": 60,
+    "retry_interval_minutes": 5
+}
